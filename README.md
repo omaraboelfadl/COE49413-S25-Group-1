@@ -15,19 +15,24 @@ This project explores the development of Convolutional Neural Network (CNN) mode
   Using Git: git clone https://github.com/omaraboelfadl/COE49413-S25-Group-1.git  
   or alternatively, use GitHub Desktop  
 
-3. **Navigate to the project directory**  
+2. **Navigate to the project directory**  
   Using Git: cd COE49413-S25-Group-1/Project  
   or alternatively, manually open the folder  
 
-5. **Open the project file**  
+3. **Open the project file**  
   Open the file named `cv_project_code_test_run.ipynb` using Jupyter Notebook.  
   Note that this file will import the dataset and load our best developed model named `early_birds_model_less_complex.h5`.  
 
-7. **Run the notebook**  
-  Run all cells in the notebook to load the dataset, preprocess the training data, augment the training data, load the model, pass the data through the model, and evaluate the performance.  
-  There is no need to modify any data paths as everything is pre-configured to run as-is.  
-
-9. **View the development of all of our models (OPTIONAL).**  
+4. **Run the notebook**  
+  Run all cells in the notebook, this will perform the following:  
+  - load the dataset (There is no need to modify any data paths as everything is configured to run as is)  
+  - preprocess the training data  
+  - augment the training data  
+  - load the model  
+  - pass the data through the model  
+  - evaluate the model's performance  
+    
+5. **View the development of all of our models (OPTIONAL).**  
   Open the file named `cv_project_code.ipynb` using Jupyter Notebook.  
   View each iteration of our architectures and code, to get a better understanding of our process in determining the best and final model.  
 
