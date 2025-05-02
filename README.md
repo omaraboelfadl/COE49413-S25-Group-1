@@ -20,7 +20,7 @@ This project explores the development of Convolutional Neural Network (CNN) mode
   or alternatively, manually open the folder  
 
 5. **Open the Project File**  
-  Open the file named `cv_project_code_test_run.ipynb` using Jupyter Notebook.
+  Open the file named `cv_project_code_test_run.ipynb` using Jupyter Notebook.  
   Note that this file will import the dataset and load our best developed model: `early_birds_model_less_complex.h5`  
 
 7. **Run the notebook**
