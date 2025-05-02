@@ -24,7 +24,7 @@ This project explores the development of Convolutional Neural Network (CNN) mode
   Note that this file will import the dataset and load our best developed model named `early_birds_model_less_complex.h5`.  
 
 4. **Run the notebook**  
-  Run all cells in the notebook, this will perform the following:  
+  Run all cells in the notebook, this will perform the following:
   - load the dataset (There is no need to modify any data paths as everything is configured to run as is)  
   - preprocess the training data  
   - augment the training data  
