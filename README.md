@@ -27,7 +27,7 @@ This project explores the development of Convolutional Neural Network (CNN) mode
   Run all cells in the notebook.  
   There is no need to modify any data paths as everything is pre-configured to run as-is.  
 
-8. **View the development of all of our models (OPTIONAL).  
+8. **View the development of all of our models (OPTIONAL).**  
   Open the file named `cv_project_code.ipynb` using Jupyter Notebook.  
   View each iteration of our architectures and code, to get a better understanding of our process in determining the best and final model.  
 
