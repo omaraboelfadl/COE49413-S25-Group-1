@@ -16,6 +16,7 @@ Built using Python, TensorFlow, and Jupyter Notebooks, this project provides a s
 1. **Clone this repository**
 Using Git: git clone https://github.com/omaraboelfadl/COE49413-S25-Group-1.git
 or alternatively, use GitHub Desktop...
+✅ No need to modify any data paths – everything is pre-configured to run as-is.
 
 3. **Navigate to the project directory**
 
