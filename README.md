@@ -1,15 +1,13 @@
 # Computer Vision Approach for Arabic Text Understanding using CNN
 
-This project explores the development of Convolutional Neural Network (CNN) models for classifying handwritten Arabic characters. The goal is to iteratively improve CNN architectures and evaluate their performance on this unique and challenging script.
-
-Built using Python, TensorFlow, and Jupyter Notebooks, this project provides a streamlined workflow for training and testing models with minimal setup.
+This project explores the development of Convolutional Neural Network (CNN) models for classifying handwritten Arabic characters. The goal is to iteratively improve CNN architectures, using extra convolutional layers, new methods, and more.  
 
 ## 🧠 Technologies Used
 
-- Python 3  
+- Python
 - Jupyter Notebook  
 - TensorFlow / Keras  
-- NumPy, Matplotlib *(if applicable for visualizations)*
+- Pandas, NumPy, Matplotlib  
 
 ## 🚀 How to Run the Project
 
@@ -21,8 +19,8 @@ Built using Python, TensorFlow, and Jupyter Notebooks, this project provides a s
   Using Git: cd COE49413-S25-Group-1/Project  
   or alternatively, manually open the folder  
 
-5. **Open the Jupyter notebook**
-Open the file named `cv_project_code_test_run.ipynb` using Jupyter Notebook.
+5. **Open the Jupyter notebook**  
+  Open the file named `cv_project_code_test_run.ipynb` using Jupyter Notebook.  
 
 6. **Run the notebook**
 Run all cells in the notebook.  
